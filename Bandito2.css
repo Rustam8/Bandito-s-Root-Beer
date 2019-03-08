@@ -13,8 +13,12 @@ body {
   color: darkred;
 }
 
+img {
+   max-height: 100%;
+  max-width: 100%;
+}
+
 div {
-  background-image: url("https://lh3.googleusercontent.com/-SRxA5tQ7Gfo/XH3C6_WcMnI/AAAAAAAAAZ8/RrB4mM_rxRIDvWrke6HBetGlplmUUl5KACJoC/w1060-h822-n-rw/bandito.jpg");
   height: 160px;
   width: 260px;
   margin-left: 140px;
