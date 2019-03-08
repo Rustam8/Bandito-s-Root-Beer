@@ -1,0 +1,25 @@
+body {
+  background-color: orange;
+}
+
+#header {
+  font-family: cursive;
+  text-align: center;
+}
+
+#slogan {
+  font-family: cursive;
+  text-align: center;
+  color: darkred;
+}
+
+div {
+  background-image: url("https://lh3.googleusercontent.com/-SRxA5tQ7Gfo/XH3C6_WcMnI/AAAAAAAAAZ8/RrB4mM_rxRIDvWrke6HBetGlplmUUl5KACJoC/w1060-h822-n-rw/bandito.jpg");
+  height: 160px;
+  width: 260px;
+  margin-left: 140px;
+}
+
+#description {
+  text-align: center;
+}
